@@ -1,7 +1,7 @@
 # pixelscamp_talk_resources
 Android Projects discussed during the presentation
 
-PixelCamp_networking - Custom TrustManager
+PixelCamp_networking - Custom TrustManager<br>
 PixelsCamp_netorkinghostnameverifier - Custome HostnameVerifier
 PixelCamp_networking2 - Custom Webview including addJavascriptInterface
 PixelCamp_networking3 - Certificate Pinning
